@@ -6,4 +6,4 @@
 - We generate a labeled synthetic dataset by resampling real data. This dataset contains 1200 developers in two categories of "Expert" and "Novice". With this data you can explore the validity of expertise models based on the content of programming code. <br />
 -  "Dataset" contains raw dataset which is extracted from GitHub repositories. It contains these features:<br />
 . 'commit_ID','Author', 'Authored_Date','email','msg','Commiter','committer_date', 'project_path','Commit_before', 'Commit_after','diff','Added_LOC','Removed_LOC', 'Num_LOC'<br />
-   "Dataset" includes a part of whole dataset. The 3 GB collected data is not uploaded here due to the space limit but it is explained in "" how to extract these data with git API calls. Also, you can contact us if you need the whole data. 
+   "Dataset" includes a part of whole dataset. The 3 GB collected data is not uploaded here due to the space limit but it is explained in "tokenizer" how to extract these data with git API calls. Also, you can contact us if you need the whole data. 
